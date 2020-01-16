@@ -1,4 +1,5 @@
 # jian
+<img src="https://user-images.githubusercontent.com/59948918/72499051-7608eb80-37f6-11ea-9d43-8db95a88e49c.jpg" width = 90%></img>
 ## Where are you from?
 I'm from South Korea.
 ## IT Interests
