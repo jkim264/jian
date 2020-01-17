@@ -1,7 +1,7 @@
 # jian
-<img src="https://raw.githubusercontent.com/jkim264/jian/master/itmt-430/images/Visa_Kimjian(KR).jpg?token=AOJL65Q2MHT4AUUC2SJRHZK6EEV7W" width = 30%></img>
+<img src="https://github.com/jkim264/jian/blob/master/itmt-430/images/Visa_Kimjian(KR).jpg" width = 30%></img>
 <br>
-<img src="https://raw.githubusercontent.com/jkim264/jian/master/itmt-430/images/owl.jpg?token=AOJL65XPD6QPXQ5OUXBJOOS6EEWBW" width = 30%></img>
+<img src="https://github.com/jkim264/jian/blob/master/itmt-430/images/owl.jpg" width = 30%></img>
 ## Where are you from?
 I'm from South Korea. More specifically, i live in Gyeonggido Bucheon of Korea.
 ## IT Interests
