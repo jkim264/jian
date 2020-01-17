@@ -1,5 +1,5 @@
 # jian
-<img src="./images/Visa_Kimjian(KR)" width = 30%></img>
+<img src="https://raw.githubusercontent.com/jkim264/jian/master/itmt-430/images/Visa_Kimjian(KR).jpg?token=AOJL65Q2MHT4AUUC2SJRHZK6EEV7W" width = 30%></img>
 <br>
 <img src="https://user-images.githubusercontent.com/59948918/72567446-8616de80-387b-11ea-8a1f-669768e0d3d2.jpg" width = 30%></img>
 ## Where are you from?
