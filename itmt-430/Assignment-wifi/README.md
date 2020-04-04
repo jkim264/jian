@@ -1,7 +1,7 @@
 <h1>Simon Game with 4 leds and 4 buttons</h1>
 <h2>Assignment-wifi</h2>
 <h3> Algorithm</h3>
-<img src="https://github.com/jkim264/jian/blob/master/itmt-430/Assignment-wifi/pictures/Simon_Game-wifi.png" width = 50%></img>
+<img src="https://github.com/jkim264/jian/blob/master/itmt-430/Assignment-wifi/pictures/Simon%Game-wifi.png" width = 50%></img>
 <h3> Advanced Web Server & Simon Game code</h3>
 <p>I use Advanced Web Server cod of sample. And I change the part of that.</p>
 <h3> How to play & How to see on Web</h3>
